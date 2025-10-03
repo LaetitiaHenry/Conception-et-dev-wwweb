@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Exercice 1 - Page 1</title>
+</head>
+<body>
+<h1>Ceci est l'exercice 1</h1>
+<p>Ceci est un paragraphe avec un mot en <b>gras</b>, un autre en <i>italique</i>, et voici un <à href="https://www.inalco.fr"target="_blank">hyperlien vers l'inalco</a>
+</p>
