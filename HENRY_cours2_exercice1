@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercice 1 - Page 1</title>
+    <meta name="description" content="Première page de l'exercice HTML">
+    <meta name="author" content="Votre NOM">
+</head>
+<body>
+    <!-- Lien vers la deuxième page -->
+    <a href="HENRY_cours2_exercice1bis.html">Aller à la page 2</a> 
 
+    <h1>Bienvenue sur ma première page</h1>
+    <p>
+        Ceci est un <b>paragraphe</b> avec du <i>texte en italique</i> et un 
+        <a href="https://www.inalco.fr" target="_blank">hyperlien vers l'Inalco</a>.
+    </p>
+</body>
+</html>
