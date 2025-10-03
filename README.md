@@ -1,2 +1,2 @@
 # Conception-et-dev-wwweb
-Exercises su cours se conception et dev web
+Exercises du cours de conception et dev web
